@@ -1,0 +1,6 @@
+{
+  "name": "Yojana Sarthi",
+  "description": "Your Personal Guide to Indian Government Welfare Schemes. Discover Central and State schemes, check eligibility transparently, compare benefits, and get source-backed guidance with Yojana Mitra AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
